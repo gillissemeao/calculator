@@ -1,6 +1,6 @@
-import 'package:calculator/src/button_hub.dart';
 import 'package:calculator/src/controllers/controllers.dart';
-import 'package:calculator/src/display.dart';
+import 'package:calculator/src/widgets/button_hub.dart';
+import 'package:calculator/src/widgets/display.dart';
 import 'package:flutter/material.dart';
 
 class CalcPage extends StatefulWidget {
